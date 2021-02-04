@@ -2,7 +2,7 @@
 //  FavMovie+CoreDataProperties.swift
 //  MovieDBApp
 //
-//  Created by Faiq on 1.02.2021.
+//  Created by Faiq on 4.02.2021.
 //  Copyright © 2021 Faig Garazade. All rights reserved.
 //
 //
