@@ -21,7 +21,7 @@
 		75963CAD25CC362C00204902 /* FavMovie+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75963CA725CC35FD00204902 /* FavMovie+CoreDataClass.swift */; };
 		75963CAE25CC362C00204902 /* FavMovie+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75963CA825CC35FD00204902 /* FavMovie+CoreDataProperties.swift */; };
 		75963CB625CC382300204902 /* MovieDBApp.xcdatamodeld in Resources */ = {isa = PBXBuildFile; fileRef = 751FC49D25BF578F003CEDE9 /* MovieDBApp.xcdatamodeld */; };
-		75ED13DC25DFC234006EAF1A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 75ED13DB25DFC234006EAF1A /* Assets.xcassets */; };
+		75ED13E125DFC339006EAF1A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 75ED13E025DFC339006EAF1A /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,7 +41,7 @@
 		754D95B625C81B3A00206C51 /* MovieDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MovieDetailViewController.swift; sourceTree = "<group>"; };
 		75963CA725CC35FD00204902 /* FavMovie+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FavMovie+CoreDataClass.swift"; sourceTree = "<group>"; };
 		75963CA825CC35FD00204902 /* FavMovie+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FavMovie+CoreDataProperties.swift"; sourceTree = "<group>"; };
-		75ED13DB25DFC234006EAF1A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		75ED13E025DFC339006EAF1A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +74,7 @@
 		751FC49325BF578F003CEDE9 /* MovieDBApp */ = {
 			isa = PBXGroup;
 			children = (
+				75ED13E025DFC339006EAF1A /* Assets.xcassets */,
 				754D95A725C81B3A00206C51 /* AppDelegate.swift */,
 				754D95AA25C81B3A00206C51 /* Classes */,
 				754D95A625C81B3900206C51 /* Info.plist */,
@@ -82,7 +83,6 @@
 				751FC4A225BF5794003CEDE9 /* LaunchScreen.storyboard */,
 				751FC4BB25BF632D003CEDE9 /* Main.storyboard */,
 				751FC49D25BF578F003CEDE9 /* MovieDBApp.xcdatamodeld */,
-				75ED13DB25DFC234006EAF1A /* Assets.xcassets */,
 			);
 			path = MovieDBApp;
 			sourceTree = "<group>";
@@ -189,7 +189,7 @@
 				751FC4A425BF5794003CEDE9 /* LaunchScreen.storyboard in Resources */,
 				754D95BB25C81B3A00206C51 /* Media.xcassets in Resources */,
 				751FC4BD25BF632D003CEDE9 /* Main.storyboard in Resources */,
-				75ED13DC25DFC234006EAF1A /* Assets.xcassets in Resources */,
+				75ED13E125DFC339006EAF1A /* Assets.xcassets in Resources */,
 				754D95C225C81B3A00206C51 /* MovieCollectionViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
